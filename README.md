@@ -18,5 +18,6 @@ Prijedlog aplikacije koja prikazuje različite mogućnosti prijevoza u gradu za 
 [Završni rad](https://github.com/iudovcic13/Projekti/blob/8e89a4c559095092c6755be52454d655026b3d3e/Iva_Udov%C4%8Di%C4%87-Prototip_aplikacije_koja_prikazuje_mogu%C4%87nosti_prijevoza_u_gradu-Zavr%C5%A1ni%20rad.pdf)
 ## Projekt iz kolegija Projektiranje informacijskih sustava
 Projektiranje informacijskog sustava za tvrtku TPK Orometal d.o.o.
+[TPK Orometal d.o.o. - Projektiranje informacijskog sustava](https://github.com/iudovcic13/Projekti/blob/e8e2760eb161a7126c164fd86acb029dd9a591a4/PIS_TPK%20Orometal%20doo.pdf)
 ## Projekt iz kolegija Modeliranje poslovnih procesa
 Modeliranje poslovnog procesa nabave plina u tvrtki Sičaja d.o.o. Rad u WebSphereu. 
