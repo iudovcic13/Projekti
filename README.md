@@ -14,7 +14,7 @@ Prijedlog digitalne transfomacije u tvrtki Prerada plastike Šantek.
 Projekt analizira financijske pokazatelje za otvaranje slastičarne.
 ## Završni rad na temu: Prototip aplikacije koja prikazuje mogućnosti prijevoza u gradu
 Prijedlog aplikacije koja prikazuje različite mogućnosti prijevoza u gradu za stanovnike i tursite. Prototip izrađen u Figmi.
-[Završni rad] (Iva_Udovčić-Prototip_aplikacije_koja_prikazuje_mogućnosti_prijevoza_u_gradu-Završni rad.pdf)
+[Završni rad](Iva_Udovčić-Prototip_aplikacije_koja_prikazuje_mogućnosti_prijevoza_u_gradu-Završni rad.pdf)
 ## Projekt iz kolegija Projektiranje informacijskih sustava
 Projektiranje informacijskog sustava za tvrtku TPK Orometal d.o.o.
 ## Projekt iz kolegija Modeliranje poslovnih procesa
