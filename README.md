@@ -15,7 +15,7 @@ Projekt analizira financijske pokazatelje za otvaranje slastičarne.
 ## Završni rad na temu: Prototip aplikacije koja prikazuje mogućnosti prijevoza u gradu
 Prijedlog aplikacije koja prikazuje različite mogućnosti prijevoza u gradu za stanovnike i tursite. Prototip izrađen u Figmi.
 
-[Završni rad](Iva_Udovčić-Prototip_aplikacije_koja_prikazuje_mogućnosti_prijevoza_u_gradu-Završni rad.pdf)
+[Završni rad](https://github.com/iudovcic13/Projekti/blob/8e89a4c559095092c6755be52454d655026b3d3e/Iva_Udov%C4%8Di%C4%87-Prototip_aplikacije_koja_prikazuje_mogu%C4%87nosti_prijevoza_u_gradu-Zavr%C5%A1ni%20rad.pdf)
 ## Projekt iz kolegija Projektiranje informacijskih sustava
 Projektiranje informacijskog sustava za tvrtku TPK Orometal d.o.o.
 ## Projekt iz kolegija Modeliranje poslovnih procesa
