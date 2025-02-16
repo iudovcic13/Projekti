@@ -7,6 +7,7 @@ Analiza skupa podataka u MySQL Workbenchu te vizualizacija u Tableau.
 ## Projekt iz kolegija Strateško planiranje informacijskih sustava
 Provođenje informatizacije u tvrtki TPK Orometal d.o.o.
 
+[Informatizacija TPK Orometal d.o.o.](https://github.com/iudovcic13/Projekti/blob/main/TPK%20Orometal_SPIS.pdf)
 
 ## Projekt iz kolegija Digitalno poslovanje
 Rad koji se bavi pojmom sučelja u Solidityju. 
