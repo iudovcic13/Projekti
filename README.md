@@ -2,6 +2,7 @@
 Projekti koje sam izradila tijekom fakultetskog obrazovanja:
 ## Projekt iz kolegija Baze znanje i semantički web
 Stvaranje vlastite ontologije te provođenje SARQL i DL upita nad ontologijom u alatu Protege
+
 [Učenje ontologija](https://github.com/iudovcic13/Projekti/blob/c224576569a1310e4ebf81eed88fada2fa19913b/U%C4%8Denje%20ontologija.pdf
 )
 
@@ -25,7 +26,7 @@ Analiza skupa podataka u MySQL Workbenchu te vizualizacija u Tableau.
 ## Projekt iz kolegija Strateško planiranje informacijskih sustava
 Provođenje informatizacije u tvrtki TPK Orometal d.o.o. Use case, Rich picture... NAPIŠI 
 
-[Informatizacija TPK Orometal d.o.o.](https://github.com/iudovcic13/Projekti/blob/main/TPK%20Orometal_SPIS.pdf)
+[Informatizacija TPK Orometal d.o.o.](https://github.com/iudovcic13/Projekti/blob/4835803dc739adc5244864c26e70c97715da6280/Koncept%20rje%C5%A1enja%20informatizacije%20u%20TPK%20Orometal.%20d.d.pdf)
 
 ## Projekt iz kolegija Digitalno poslovanje
 Rad koji se bavi pojmom sučelja u Solidityju. 
