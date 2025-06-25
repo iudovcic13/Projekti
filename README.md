@@ -7,7 +7,7 @@ Stvaranje vlastite ontologije te provođenje SARQL i DL upita nad ontologijom u 
 )
 
 ## Projekt iz kolegija Mjerenje organizacijskih performasni
-Na imaginarnoj organizaciji postaviti ciljeve te mjeriti kako ciljevi utječu na performanse. Rad u alatu AdoScore.
+Na imaginarnoj organizaciji postaviti ciljeve te mjeriti kako ciljevi utječu na performanse. SWOT analiza. Rad u alatu AdoScore.
 
 [Mjerenje organizacijskih performansi](https://github.com/iudovcic13/Projekti/blob/6e0c9f9200bb72d5fed9824af4a5c59d25c93365/MIS_Belinic_Kajzogaj_Lovasic_Udovcic.pdf
 )
