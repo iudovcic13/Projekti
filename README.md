@@ -40,3 +40,8 @@ Modeliranje poslovnog procesa nabave plina u tvrtki Sičaja d.o.o. Rad u WebSphe
 
 [Sičaja d.o.o. - Nabava UNP-a](https://github.com/iudovcic13/Projekti/blob/ea23dba31935af7916c64aead152af7cf39f34b8/Proces%20nabaviti%20UNP%20u%20SI%C4%8CAJA%20doo.pdf
 )
+## Projekt iz kolegija Modeliranje i simulacije
+Simulacija reda čekanja te pronalaženje načina za smanjenje istog. Rad u ServiceModel 4.2.
+
+[Simulacijsko modeliranje redova čekanja u pekarnici "Stubičke toplice"]
+()
