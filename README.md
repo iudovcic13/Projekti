@@ -46,6 +46,9 @@ Prijedlog digitalne transfomacije u tvrtki Prerada plastike Šantek.
 Projekt analizira financijske pokazatelje za otvaranje slastičarne. Rad u Excelu.
 
 [Slastičarna Charlotte](https://github.com/iudovcic13/Projekti/blob/ea23dba31935af7916c64aead152af7cf39f34b8/Slasti%C4%8Darna_Charlotte_-_Piljek_Previ%C5%A1i%C4%87_Udov%C4%8Di%C4%87.pdf)
+
+[Slastičarna Charlotte Excel](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fiudovcic13%2FProjekti%2Frefs%2Fheads%2Fmain%2FCharlotte.xlsx&wdOrigin=BROWSELINK)
+
 ## Završni rad na temu: Prototip aplikacije koja prikazuje mogućnosti prijevoza u gradu
 Prijedlog aplikacije koja prikazuje različite mogućnosti prijevoza u gradu za stanovnike i tursite. Prototip izrađen u Figmi.
 
