@@ -1,7 +1,7 @@
 # Projekti
 Projekti koje sam izradila tijekom fakultetskog obrazovanja:
 ## Projekt iz kolegija Baze znanje i semantički web
-Stvaranje vlastite ontologije te provođenje SARQL i DL upita nad ontologijom u alatu Protege.
+Stvaranje vlastite ontologije te provođenje SPARQL i DL upita nad ontologijom u alatu Protege.
 
 [Učenje ontologija](https://github.com/iudovcic13/Projekti/blob/c224576569a1310e4ebf81eed88fada2fa19913b/U%C4%8Denje%20ontologija.pdf
 )
@@ -18,7 +18,7 @@ Simulacija reda čekanja te pronalaženje načina za smanjenje istog. Rad u Serv
 [Simulacijsko modeliranja redova čekanja u pekari "Stubičke toplice"](https://github.com/iudovcic13/Projekti/blob/6e0c9f9200bb72d5fed9824af4a5c59d25c93365/MIS_Belinic_Kajzogaj_Lovasic_Udovcic.pdf
 )
 ## Projekt iz kolegija Teorija odlučivanja
-ANP proces za donošenje odluke. Rad u Excelu.
+Analitički mrežni proces (ANP, engl. _Analytic Network Process_) koristi se za donošenje odluka Rad u Excelu.
 
 [ANP proces](https://github.com/iudovcic13/Projekti/blob/02b97216532ff7c725e4472b004d25d84113dfad/ANP%20metoda%20za%20dono%C5%A1enje%20odluke.pdf)
 
