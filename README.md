@@ -17,9 +17,12 @@ Simulacija reda čekanja te pronalaženje načina za smanjenje istog. Rad u Serv
 
 [Simulacijsko modeliranja redova čekanja u pekari "Stubičke toplice"](https://github.com/iudovcic13/Projekti/blob/6e0c9f9200bb72d5fed9824af4a5c59d25c93365/MIS_Belinic_Kajzogaj_Lovasic_Udovcic.pdf
 )
+## Projekt iz kolegija Teorija odlučivanja
+ANP proces za donošenje odluke. Rad u Excelu.
+
 
 ## Projekt iz kolegija Skladišta podataka i poslovna inteligencija
-Analiza skupa podataka u MySQL Workbenchu te vizualizacija u Tableau.
+Analiza skupa podataka u MySQL Workbenchu i Excelu te vizualizacija u Tableau.
 
 [Analiza filmova i serija dostupnih na platformi HBO](https://github.com/iudovcic13/Projekti/blob/c5f917d183b299258f959eb309f42ebcd92a9a37/Analiza%20podataka%20o%20filmovima%20i%20serijama%20na%20platformi%20HBO.pdf)
 
