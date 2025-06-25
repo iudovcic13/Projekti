@@ -3,7 +3,7 @@ Projekti koje sam izradila tijekom fakultetskog obrazovanja:
 ## Projekt iz kolegija Skladišta podataka i poslovna inteligencija
 Analiza skupa podataka u MySQL Workbenchu te vizualizacija u Tableau.
 
-[Analiza filmova i serija dostupnih na platformi HBO](https://github.com/iudovcic13/Projekti/blob/ea23dba31935af7916c64aead152af7cf39f34b8/Udov%C4%8Di%C4%87%20Iva_Analiza%20filmova%20i%20serija%20dostupnih%20na%20HBO%20platformi.pdf)
+[Analiza filmova i serija dostupnih na platformi HBO](https://github.com/iudovcic13/Projekti/blob/c5f917d183b299258f959eb309f42ebcd92a9a37/Analiza%20podataka%20o%20filmovima%20i%20serijama%20na%20platformi%20HBO.pdf)
 ## Projekt iz kolegija Strateško planiranje informacijskih sustava
 Provođenje informatizacije u tvrtki TPK Orometal d.o.o.
 
