@@ -18,7 +18,7 @@ Simulacija reda čekanja te pronalaženje načina za smanjenje istog. Rad u Serv
 [Simulacijsko modeliranja redova čekanja u pekari "Stubičke toplice"](https://github.com/iudovcic13/Projekti/blob/6e0c9f9200bb72d5fed9824af4a5c59d25c93365/MIS_Belinic_Kajzogaj_Lovasic_Udovcic.pdf
 )
 ## Projekt iz kolegija Teorija odlučivanja
-Analitički mrežni proces (ANP, engl. _Analytic Network Process_) koristi se za donošenje odluka Rad u Excelu.
+Analitički mrežni proces (ANP, engl. _Analytic Network Process_) koristi se za donošenje odluka. Rad u Excelu.
 
 [ANP proces](https://github.com/iudovcic13/Projekti/blob/02b97216532ff7c725e4472b004d25d84113dfad/ANP%20metoda%20za%20dono%C5%A1enje%20odluke.pdf)
 
@@ -56,7 +56,7 @@ Projekt analizira financijske pokazatelje za otvaranje slastičarne. Rad u Excel
 [Slastičarna Charlotte Excel](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fiudovcic13%2FProjekti%2Frefs%2Fheads%2Fmain%2FCharlotte.xlsx&wdOrigin=BROWSELINK)
 
 ## Završni rad na temu: Prototip aplikacije koja prikazuje mogućnosti prijevoza u gradu
-Prijedlog aplikacije koja prikazuje različite mogućnosti prijevoza u gradu za stanovnike i tursite. Prototip izrađen u Figmi.
+Prijedlog aplikacije koja prikazuje različite mogućnosti prijevoza u gradu za stanovnike i turiste. Prototip izrađen u Figmi.
 
 [Završni rad](https://github.com/iudovcic13/Projekti/blob/8e89a4c559095092c6755be52454d655026b3d3e/Iva_Udov%C4%8Di%C4%87-Prototip_aplikacije_koja_prikazuje_mogu%C4%87nosti_prijevoza_u_gradu-Zavr%C5%A1ni%20rad.pdf)
 ## Projekt iz kolegija Projektiranje informacijskih sustava
