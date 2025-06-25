@@ -44,4 +44,5 @@ Modeliranje poslovnog procesa nabave plina u tvrtki Sičaja d.o.o. Rad u WebSphe
 Simulacija reda čekanja te pronalaženje načina za smanjenje istog. Rad u ServiceModel 4.2.
 
 [Simulacijsko modeliranje redova čekanja u pekarnici "Stubičke toplice"]
-()
+(https://github.com/iudovcic13/Projekti/blob/28bb50d0fc84984b2f5249401e3f2f73583578c5/MIS_Belinic_Kajzogaj_Lovasic_Udovcic.pdf)
+ 
