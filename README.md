@@ -1,7 +1,7 @@
 # Projekti
 Projekti koje sam izradila tijekom fakultetskog obrazovanja:
 ## Projekt iz kolegija Baze znanje i semantički web
-Stvaranje vlastite ontologije te provođenje SARQL i DL upita nad ontologijom u alatu Protege
+Stvaranje vlastite ontologije te provođenje SARQL i DL upita nad ontologijom u alatu Protege.
 
 [Učenje ontologija](https://github.com/iudovcic13/Projekti/blob/c224576569a1310e4ebf81eed88fada2fa19913b/U%C4%8Denje%20ontologija.pdf
 )
