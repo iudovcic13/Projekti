@@ -22,8 +22,7 @@ ANP proces za donošenje odluke. Rad u Excelu.
 
 [ANP proces](https://github.com/iudovcic13/Projekti/blob/02b97216532ff7c725e4472b004d25d84113dfad/ANP%20metoda%20za%20dono%C5%A1enje%20odluke.pdf)
 
-[ANP proces -Excel](https://github.com/iudovcic13/Projekti/blob/02b97216532ff7c725e4472b004d25d84113dfad/ANP%20metoda%20za%20dono%C5%A1enje%20odluke.pdf](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fiudovcic13%2FProjekti%2Frefs%2Fheads%2Fmain%2FANP%2520metoda%2520za%2520dono%25C5%25A1enje%2520odluke%2520-%2520Excel.xlsx&wdOrigin=BROWSELINK
-)
+[ANP proces -Excel](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fiudovcic13%2FProjekti%2Frefs%2Fheads%2Fmain%2FANP%2520metoda%2520za%2520dono%25C5%25A1enje%2520odluke%2520-%2520Excel.xlsx&wdOrigin=BROWSELINK)
 
 ## Projekt iz kolegija Skladišta podataka i poslovna inteligencija
 Analiza skupa podataka u MySQL Workbenchu i Excelu te vizualizacija u Tableau.
