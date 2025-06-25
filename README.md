@@ -24,7 +24,7 @@ Analiza skupa podataka u MySQL Workbenchu te vizualizacija u Tableau.
 [Analiza filmova i serija dostupnih na platformi HBO](https://github.com/iudovcic13/Projekti/blob/c5f917d183b299258f959eb309f42ebcd92a9a37/Analiza%20podataka%20o%20filmovima%20i%20serijama%20na%20platformi%20HBO.pdf)
 
 ## Projekt iz kolegija Strateško planiranje informacijskih sustava
-Provođenje informatizacije u tvrtki TPK Orometal d.o.o. Use case, Rich picture... NAPIŠI 
+Provođenje informatizacije u tvrtki TPK Orometal d.o.o. Dekompozicijski dijagram, Rich picture, ERA model, Use case dijagram, SAP scene. 
 
 [Informatizacija TPK Orometal d.o.o.](https://github.com/iudovcic13/Projekti/blob/4835803dc739adc5244864c26e70c97715da6280/Koncept%20rje%C5%A1enja%20informatizacije%20u%20TPK%20Orometal.%20d.d.pdf)
 
