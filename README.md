@@ -1,15 +1,15 @@
 # Projekti/Projects
-Projekti koje sam izradila tijekom fakultetskog obrazovanja:/Projects that I worked on during my academic education
+Projekti koje sam izradila tijekom fakultetskog obrazovanja:/Projects that I worked on during my academic education:
 ## Projekt iz kolegija Baze znanje i semantički web/Course project: Knowledge Bases and Semantic Web
-Stvaranje vlastite ontologije te provođenje SPARQL i DL upita nad ontologijom u alatu Protege. /Creation of a custom ontology and execution of SPARQL and DL queries on the ontology using the Protégé tool.
+Stvaranje vlastite ontologije te provođenje SPARQL i DL upita nad ontologijom u alatu Protégé./Creation of a custom ontology and execution of SPARQL and DL queries on the ontology using the Protégé tool.
 
 [Učenje ontologija/Learning Ontologies](https://github.com/iudovcic13/Projekti/blob/c224576569a1310e4ebf81eed88fada2fa19913b/U%C4%8Denje%20ontologija.pdf
 )
 
-## Projekt iz kolegija Mjerenje organizacijskih performasni/Course project: Measuring Organizational Performance
-Na imaginarnoj organizaciji postaviti ciljeve te mjeriti kako ciljevi utječu na performanse. SWOT analiza. Rad u alatu AdoScore./Setting goals in a fictional organization and measuring how these goals affect performance. SWOT analysis. Work in the AdoScore tool.
+## Projekt iz kolegija Mjerenje organizacijskih performasni/Course project: Measuring Organizational Performances
+Na imaginarnoj organizaciji postaviti ciljeve te mjeriti kako ciljevi utječu na performanse. SWOT analiza. Rad u alatu AdoScore./Setting goals in a fictional organization and measuring how these goals affect performances. SWOT analysis. Work in the AdoScore tool.
 
-[Mjerenje organizacijskih performansi/Measuring Organizational Performance](https://github.com/iudovcic13/Projekti/blob/6e0c9f9200bb72d5fed9824af4a5c59d25c93365/MIS_Belinic_Kajzogaj_Lovasic_Udovcic.pdf
+[Mjerenje organizacijskih performansi/Measuring Organizational Performances](https://github.com/iudovcic13/Projekti/blob/6e0c9f9200bb72d5fed9824af4a5c59d25c93365/MIS_Belinic_Kajzogaj_Lovasic_Udovcic.pdf
 )
 
 ## Projekt iz kolegija Modeliranje i simulacije/Course project: Modeling and Simulation
@@ -17,6 +17,7 @@ Simulacija reda čekanja te pronalaženje načina za smanjenje istog. Rad u Serv
 
 [Simulacijsko modeliranja redova čekanja u pekari "Stubičke toplice"/Simulation modeling of queues in the bakery "Stubičke toplice"](https://github.com/iudovcic13/Projekti/blob/6e0c9f9200bb72d5fed9824af4a5c59d25c93365/MIS_Belinic_Kajzogaj_Lovasic_Udovcic.pdf
 )
+
 ## Projekt iz kolegija Teorija odlučivanja/Course project: Decision Theory
 Analitički mrežni proces (ANP, engl. _Analytic Network Process_) koristi se za donošenje odluka. Rad u Excelu./The Analytic Network Process (ANP) was used for decision-making. Work in Excel.
 
@@ -57,7 +58,7 @@ Projekt analizira financijske pokazatelje za otvaranje slastičarne. Rad u Excel
 
 [Slastičarna Charlotte Excel/Confectionery Charlotte Excel](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fiudovcic13%2FProjekti%2Frefs%2Fheads%2Fmain%2FCharlotte.xlsx&wdOrigin=BROWSELINK)
 
-## Završni rad na temu: Prototip aplikacije koja prikazuje mogućnosti prijevoza u gradu/UndergraduateThesis: Prototype of an Application Showing Transportation Options in the City
+## Završni rad na temu: Prototip aplikacije koja prikazuje mogućnosti prijevoza u gradu/Undergraduate Thesis: Prototype of an Application Showing Transportation Options in the City
 Prijedlog aplikacije koja prikazuje različite mogućnosti prijevoza u gradu za stanovnike i turiste. Prototip izrađen u Figmi./Proposal of an application that displays various transportation options in the city for residents and tourists. Prototype created in Figma.
 
 [Završni rad/Undergraduate Thesis](https://github.com/iudovcic13/Projekti/blob/8e89a4c559095092c6755be52454d655026b3d3e/Iva_Udov%C4%8Di%C4%87-Prototip_aplikacije_koja_prikazuje_mogu%C4%87nosti_prijevoza_u_gradu-Zavr%C5%A1ni%20rad.pdf)
