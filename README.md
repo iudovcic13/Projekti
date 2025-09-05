@@ -9,8 +9,8 @@ Stvaranje vlastite ontologije te provođenje SPARQL i DL upita nad ontologijom u
 ## Projekt iz kolegija Mjerenje organizacijskih performasni/Course project: Measuring Organizational Performances
 Na imaginarnoj organizaciji postaviti ciljeve te mjeriti kako ciljevi utječu na performanse. SWOT analiza. Rad u alatu AdoScore./Setting goals in a fictional organization and measuring how these goals affect performances. SWOT analysis. Work in the AdoScore tool.
 
-[Mjerenje organizacijskih performansi/Measuring Organizational Performances](https://github.com/iudovcic13/Projekti/blob/6e0c9f9200bb72d5fed9824af4a5c59d25c93365/MIS_Belinic_Kajzogaj_Lovasic_Udovcic.pdf
-)
+[Mjerenje organizacijskih performansi/Measuring Organizational Performances](https://github.com/iudovcic13/Projekti/blob/aac56e7efb72a755e69f77239725ae17c60d5057/Mjerenje%20organizacijskih%20performansi.pdf)
+
 
 ## Projekt iz kolegija Modeliranje i simulacije/Course project: Modeling and Simulation
 Simulacija reda čekanja te pronalaženje načina za smanjenje istog. Rad u ServiceModel 4.2./Simulation of a queue and finding ways to reduce it. Work in ServiceModel 4.2.
