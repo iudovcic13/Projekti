@@ -16,6 +16,7 @@ Na imaginarnoj organizaciji postaviti ciljeve te mjeriti kako ciljevi utječu na
 Simulacija reda čekanja te pronalaženje načina za smanjenje istog. Rad u ServiceModel 4.2./Simulation of a queue and finding ways to reduce it. Work in ServiceModel 4.2.
 
 [Simulacijsko modeliranja redova čekanja u pekari "Stubičke toplice"/Simulation modeling of queues in the bakery "Stubičke toplice"](https://github.com/iudovcic13/Projekti/blob/38b96ccbc0b84fe7ef22b9f012d22104a4277d91/Simulacija%20redova%20%C4%8Dekanja.pdf)
+[Simulacijsko modeliranja redova čekanja u pekari "Stubičke toplice" - Excel/Simulation modeling of queues in the bakery "Stubičke toplice" - Excel](https://github.com/iudovcic13/Projekti/blob/c388b10ed89c13da7696322fc0b935012276a37b/Simulacija%20redova%20%C4%8Dekanja.xlsx)
 
 ## Projekt iz kolegija Teorija odlučivanja/Course project: Decision Theory
 Analitički mrežni proces (ANP, engl. _Analytic Network Process_) koristi se za donošenje odluka. Rad u Excelu./The Analytic Network Process (ANP) was used for decision-making. Work in Excel.
